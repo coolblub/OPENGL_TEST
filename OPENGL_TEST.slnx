@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OPENGL_TEST/OPENGL_TEST.vcxproj" Id="ec1e70e8-4154-481c-a8c7-1ec55c94e51e" />
+</Solution>

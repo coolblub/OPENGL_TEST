@@ -1,0 +1,3 @@
+﻿  WINDOW_TEST.cpp
+C:\Users\user\source\repos\OPENGL_TEST\OPENGL_TEST\WINDOW_TEST.cpp(192,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OPENGL_TEST.vcxproj -> C:\Users\user\source\repos\OPENGL_TEST\x64\Debug\OPENGL_TEST.exe

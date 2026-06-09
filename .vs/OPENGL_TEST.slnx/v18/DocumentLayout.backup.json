@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\OPENGL_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1E70E8-4154-481C-A8C7-1EC55C94E51E}|OPENGL_TEST\\OPENGL_TEST.vcxproj|C:\\Users\\user\\source\\repos\\OPENGL_TEST\\OPENGL_TEST\\WINDOW_TEST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC1E70E8-4154-481C-A8C7-1EC55C94E51E}|OPENGL_TEST\\OPENGL_TEST.vcxproj|solutionrelative:OPENGL_TEST\\WINDOW_TEST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WINDOW_TEST.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\OPENGL_TEST\\OPENGL_TEST\\WINDOW_TEST.cpp",
+              "RelativeDocumentMoniker": "OPENGL_TEST\\WINDOW_TEST.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\OPENGL_TEST\\OPENGL_TEST\\WINDOW_TEST.cpp",
+              "RelativeToolTip": "OPENGL_TEST\\WINDOW_TEST.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAI8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T06:56:50.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
